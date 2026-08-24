@@ -1,0 +1,6 @@
+{
+  "name": "SocialMeet",
+  "description": "Application de sorties amicales, rencontres et événements festifs et culturels à Cotonou et au Bénin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
